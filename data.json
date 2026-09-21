@@ -141,12 +141,7 @@
    "tribe": ""
   }
  ],
- "players": [
-  {
-   "id": "pncmou4d",
-   "name": "Patrick Butler"
-  }
- ],
+ "players": [],
  "episodes": [
   {
    "n": 1,
@@ -158,5 +153,11 @@
    "formUrl": "https://forms.gle/AYF6hUc9QwYRF4C67"
   }
  ],
- "picks": {}
+ "picks": {},
+ "removed": [
+  "patrick-butler",
+  "patch-butler",
+  "testing-tester",
+  "test-testington"
+ ]
 }
