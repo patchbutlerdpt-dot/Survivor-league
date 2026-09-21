@@ -2,39 +2,15 @@
  "forms": {},
  "episodes": {
   "1": {
-   "patch butler": {
-    "name": "Patch Butler",
-    "c": [
-     "eric"
-    ],
-    "tribe": "",
-    "at": "2026-09-21T14:17:01.338Z"
-   },
-   "testing tester": {
-    "name": "Testing Tester",
-    "c": [
-     "carter"
-    ],
-    "tribe": "",
-    "at": "2026-09-21T16:38:28.944Z"
-   },
-   "test testington": {
-    "name": "Test Testington",
-    "c": [
-     "aaliyah"
-    ],
-    "tribe": "",
-    "at": "2026-09-21T21:16:09.489Z"
-   },
    "patrick butler": {
     "name": "Patrick Butler",
     "c": [
      "eric"
     ],
     "tribe": "",
-    "at": "2026-09-21T21:26:52.342Z"
+    "at": "2026-09-21T21:33:21.665Z"
    }
   }
  },
- "updated": "2026-09-21T21:26:56.264Z"
+ "updated": "2026-09-21T21:33:25.264Z"
 }
