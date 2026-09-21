@@ -141,11 +141,16 @@
    "tribe": ""
   }
  ],
- "players": [],
+ "players": [
+  {
+   "id": "f-haley-haller",
+   "name": "Haley Haller"
+  }
+ ],
  "episodes": [
   {
    "n": 1,
-   "date": "2026-09-23",
+   "date": "2026-09-21",
    "picks": 1,
    "eliminated": [],
    "immunity": "",
@@ -153,7 +158,17 @@
    "formUrl": "https://forms.gle/AYF6hUc9QwYRF4C67"
   }
  ],
- "picks": {},
+ "picks": {
+  "f-haley-haller": {
+   "1": {
+    "c": [
+     "kristin"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  }
+ },
  "removed": [
   "patrick-butler",
   "patch-butler",
