@@ -271,6 +271,137 @@
    "id": "f-brooke-radcliffe",
    "name": "Brooke Radcliffe",
    "paid": true
+  },
+  {
+   "id": "f-drew-elliott",
+   "name": "Drew Elliott",
+   "paid": true
+  },
+  {
+   "id": "f-t-j-butler",
+   "name": "T.J. Butler"
+  },
+  {
+   "id": "f-grace-curtis",
+   "name": "Grace Curtis",
+   "paid": true
+  },
+  {
+   "id": "f-lauren-donnelly",
+   "name": "Lauren Donnelly"
+  },
+  {
+   "id": "f-kate-defoe",
+   "name": "Kate DeFoe",
+   "paid": true
+  },
+  {
+   "id": "f-abby-zona-patel",
+   "name": "Abby Zona Patel",
+   "paid": true
+  },
+  {
+   "id": "f-brooke-bartolovich",
+   "name": "Brooke Bartolovich",
+   "paid": true
+  },
+  {
+   "id": "f-travis-burson",
+   "name": "Travis Burson",
+   "paid": true
+  },
+  {
+   "id": "f-hallie-gallagher",
+   "name": "Hallie Gallagher",
+   "paid": true
+  },
+  {
+   "id": "f-courtney-lloyd",
+   "name": "Courtney Lloyd",
+   "paid": true
+  },
+  {
+   "id": "f-kelli-miller",
+   "name": "Kelli Miller",
+   "paid": true
+  },
+  {
+   "id": "f-alex-ventura",
+   "name": "Alex Ventura",
+   "paid": true
+  },
+  {
+   "id": "f-megan-potter",
+   "name": "Megan Potter"
+  },
+  {
+   "id": "f-john-brown",
+   "name": "John Brown"
+  },
+  {
+   "id": "f-nate-haller",
+   "name": "Nate Haller",
+   "paid": true
+  },
+  {
+   "id": "f-kathleen-butler",
+   "name": "Kathleen Butler",
+   "paid": true
+  },
+  {
+   "id": "f-emily-burson",
+   "name": "Emily Burson",
+   "paid": true
+  },
+  {
+   "id": "f-zach-curtis",
+   "name": "Zach Curtis",
+   "paid": true
+  },
+  {
+   "id": "f-cassie-steets",
+   "name": "Cassie Steets",
+   "paid": true
+  },
+  {
+   "id": "f-stephanie-steets",
+   "name": "Stephanie Steets",
+   "paid": true
+  },
+  {
+   "id": "f-samantha-farrington",
+   "name": "Samantha Farrington",
+   "paid": true
+  },
+  {
+   "id": "f-maddie-king",
+   "name": "Maddie King",
+   "paid": true
+  },
+  {
+   "id": "f-sam-palumbo",
+   "name": "Sam Palumbo",
+   "paid": true
+  },
+  {
+   "id": "f-dylan-lettie",
+   "name": "Dylan Lettie",
+   "paid": true
+  },
+  {
+   "id": "f-anna-bradley-schoenfeld",
+   "name": "Anna-Bradley Schoenfeld",
+   "paid": true
+  },
+  {
+   "id": "f-prit-patel",
+   "name": "Prit patel",
+   "paid": true
+  },
+  {
+   "id": "f-ethan-quinlisk",
+   "name": "Ethan Quinlisk",
+   "paid": true
   }
  ],
  "episodes": [
@@ -514,6 +645,249 @@
    "1": {
     "c": [
      "jelly"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-drew-elliott": {
+   "1": {
+    "c": [
+     "rob"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-t-j-butler": {
+   "1": {
+    "c": [
+     "cristian"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-grace-curtis": {
+   "1": {
+    "c": [
+     "thienan"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-lauren-donnelly": {
+   "1": {
+    "c": [
+     "brady"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-kate-defoe": {
+   "1": {
+    "c": [
+     "eric"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-abby-zona-patel": {
+   "1": {
+    "c": [
+     "kristin"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-brooke-bartolovich": {
+   "1": {
+    "c": [
+     "ana"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-travis-burson": {
+   "1": {
+    "c": [
+     "mike"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-hallie-gallagher": {
+   "1": {
+    "c": [
+     "thienan"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-courtney-lloyd": {
+   "1": {
+    "c": [
+     "jelly"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-kelli-miller": {
+   "1": {
+    "c": [
+     "maggie"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-alex-ventura": {
+   "1": {
+    "c": [
+     "devin"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-megan-potter": {
+   "1": {
+    "c": [
+     "jenna"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-john-brown": {
+   "1": {
+    "c": [
+     "ori"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-nate-haller": {
+   "1": {
+    "c": [
+     "lewis"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-kathleen-butler": {
+   "1": {
+    "c": [
+     "jelly"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-emily-burson": {
+   "1": {
+    "c": [
+     "jelly"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-zach-curtis": {
+   "1": {
+    "c": [
+     "eric"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-cassie-steets": {
+   "1": {
+    "c": [
+     "maggie"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-stephanie-steets": {
+   "1": {
+    "c": [
+     "ori"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-samantha-farrington": {
+   "1": {
+    "c": [
+     "maggie"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-maddie-king": {
+   "1": {
+    "c": [
+     "aaliyah"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-sam-palumbo": {
+   "1": {
+    "c": [
+     "carter"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-dylan-lettie": {
+   "1": {
+    "c": [
+     "jelly"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-anna-bradley-schoenfeld": {
+   "1": {
+    "c": [
+     "ori"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-prit-patel": {
+   "1": {
+    "c": [
+     "sharonda"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-ethan-quinlisk": {
+   "1": {
+    "c": [
+     "carter"
     ],
     "tribe": "",
     "src": "form"
