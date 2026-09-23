@@ -337,7 +337,8 @@
   },
   {
    "id": "f-john-brown",
-   "name": "John Brown"
+   "name": "John Brown",
+   "paid": true
   },
   {
    "id": "f-nate-haller",
