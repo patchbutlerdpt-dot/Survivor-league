@@ -288,7 +288,8 @@
   },
   {
    "id": "f-lauren-donnelly",
-   "name": "Lauren Donnelly"
+   "name": "Lauren Donnelly",
+   "paid": true
   },
   {
    "id": "f-kate-defoe",
@@ -403,6 +404,11 @@
   {
    "id": "f-ethan-quinlisk",
    "name": "Ethan Quinlisk",
+   "paid": true
+  },
+  {
+   "id": "f-jacqueline-harris",
+   "name": "Jacqueline Harris",
    "paid": true
   }
  ],
@@ -890,6 +896,15 @@
    "1": {
     "c": [
      "carter"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-jacqueline-harris": {
+   "1": {
+    "c": [
+     "jenna"
     ],
     "tribe": "",
     "src": "form"
