@@ -332,7 +332,8 @@
   },
   {
    "id": "f-megan-potter",
-   "name": "Megan Potter"
+   "name": "Megan Potter",
+   "paid": true
   },
   {
    "id": "f-john-brown",
