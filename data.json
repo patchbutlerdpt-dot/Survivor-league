@@ -279,7 +279,8 @@
   },
   {
    "id": "f-t-j-butler",
-   "name": "T.J. Butler"
+   "name": "T.J. Butler",
+   "paid": true
   },
   {
    "id": "f-grace-curtis",
@@ -410,6 +411,10 @@
    "id": "f-jacqueline-harris",
    "name": "Jacqueline Harris",
    "paid": true
+  },
+  {
+   "id": "f-josh-bohn",
+   "name": "Josh Bohn"
   }
  ],
  "episodes": [
@@ -905,6 +910,15 @@
    "1": {
     "c": [
      "jenna"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-josh-bohn": {
+   "1": {
+    "c": [
+     "sharonda"
     ],
     "tribe": "",
     "src": "form"
