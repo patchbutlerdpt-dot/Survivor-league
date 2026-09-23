@@ -280,7 +280,7 @@
   {
    "id": "f-t-j-butler",
    "name": "T.J. Butler",
-   "paid": true
+   "paid": false
   },
   {
    "id": "f-grace-curtis",
@@ -414,7 +414,8 @@
   },
   {
    "id": "f-josh-bohn",
-   "name": "Josh Bohn"
+   "name": "Josh Bohn",
+   "paid": true
   }
  ],
  "episodes": [
