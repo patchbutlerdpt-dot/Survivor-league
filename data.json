@@ -234,7 +234,8 @@
   },
   {
    "id": "f-amanda-kallach",
-   "name": "Amanda Kallach"
+   "name": "Amanda Kallach",
+   "paid": true
   },
   {
    "id": "f-jared-bushman",
