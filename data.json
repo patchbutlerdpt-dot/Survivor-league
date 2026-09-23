@@ -144,7 +144,132 @@
  "players": [
   {
    "id": "f-haley-haller",
-   "name": "Haley Haller"
+   "name": "Haley Haller",
+   "paid": true
+  },
+  {
+   "id": "f-hannah-kallach-butler",
+   "name": "Hannah Kallach Butler",
+   "paid": true
+  },
+  {
+   "id": "f-patch",
+   "name": "Patch",
+   "paid": true
+  },
+  {
+   "id": "f-tim-reith",
+   "name": "Tim Reith",
+   "paid": true
+  },
+  {
+   "id": "f-gabby-brandon-poundstone",
+   "name": "Gabby & Brandon Poundstone",
+   "paid": true
+  },
+  {
+   "id": "f-hannah-bushman",
+   "name": "Hannah Bushman",
+   "paid": true
+  },
+  {
+   "id": "f-benjamin-butler",
+   "name": "Benjamin Butler",
+   "paid": true
+  },
+  {
+   "id": "f-stephen-balash",
+   "name": "Stephen Balash",
+   "paid": true
+  },
+  {
+   "id": "f-michele-butler",
+   "name": "Michele Butler",
+   "paid": true
+  },
+  {
+   "id": "f-steve-defoe",
+   "name": "Steve DeFoe",
+   "paid": true
+  },
+  {
+   "id": "f-tyler-denhof",
+   "name": "Tyler Denhof",
+   "paid": true
+  },
+  {
+   "id": "f-will-schulte",
+   "name": "Will Schulte",
+   "paid": true
+  },
+  {
+   "id": "f-doge",
+   "name": "Doge",
+   "paid": true
+  },
+  {
+   "id": "f-grace-brown",
+   "name": "Grace Brown",
+   "paid": true
+  },
+  {
+   "id": "f-karen-moses",
+   "name": "Karen Moses",
+   "paid": true
+  },
+  {
+   "id": "f-lexi-quinlisk",
+   "name": "Lexi Quinlisk",
+   "paid": true
+  },
+  {
+   "id": "f-richelle-hurley",
+   "name": "Richelle Hurley",
+   "paid": true
+  },
+  {
+   "id": "f-nick-stover",
+   "name": "Nick Stover",
+   "paid": true
+  },
+  {
+   "id": "f-amanda-kallach",
+   "name": "Amanda Kallach"
+  },
+  {
+   "id": "f-jared-bushman",
+   "name": "Jared Bushman",
+   "paid": true
+  },
+  {
+   "id": "f-kathy-bushman",
+   "name": "Kathy Bushman",
+   "paid": true
+  },
+  {
+   "id": "f-jo-ann-botts",
+   "name": "Jo Ann Botts",
+   "paid": true
+  },
+  {
+   "id": "f-nathan-giangardella",
+   "name": "Nathan Giangardella",
+   "paid": true
+  },
+  {
+   "id": "f-abigail-murray",
+   "name": "Abigail Murray",
+   "paid": true
+  },
+  {
+   "id": "f-jeannie-rieger",
+   "name": "Jeannie Rieger",
+   "paid": true
+  },
+  {
+   "id": "f-brooke-radcliffe",
+   "name": "Brooke Radcliffe",
+   "paid": true
   }
  ],
  "episodes": [
@@ -163,6 +288,231 @@
    "1": {
     "c": [
      "kristin"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-hannah-kallach-butler": {
+   "1": {
+    "c": [
+     "ana"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-patch": {
+   "1": {
+    "c": [
+     "eric"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-tim-reith": {
+   "1": {
+    "c": [
+     "cristian"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-gabby-brandon-poundstone": {
+   "1": {
+    "c": [
+     "jenna"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-hannah-bushman": {
+   "1": {
+    "c": [
+     "jenna"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-benjamin-butler": {
+   "1": {
+    "c": [
+     "rob"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-stephen-balash": {
+   "1": {
+    "c": [
+     "devin"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-michele-butler": {
+   "1": {
+    "c": [
+     "mike"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-steve-defoe": {
+   "1": {
+    "c": [
+     "alexis"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-tyler-denhof": {
+   "1": {
+    "c": [
+     "ori"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-will-schulte": {
+   "1": {
+    "c": [
+     "thienan"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-doge": {
+   "1": {
+    "c": [
+     "devin"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-grace-brown": {
+   "1": {
+    "c": [
+     "brady"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-karen-moses": {
+   "1": {
+    "c": [
+     "rob"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-lexi-quinlisk": {
+   "1": {
+    "c": [
+     "lewis"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-richelle-hurley": {
+   "1": {
+    "c": [
+     "mike"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-nick-stover": {
+   "1": {
+    "c": [
+     "carter"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-amanda-kallach": {
+   "1": {
+    "c": [
+     "kristin"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-jared-bushman": {
+   "1": {
+    "c": [
+     "mike"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-kathy-bushman": {
+   "1": {
+    "c": [
+     "kristin"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-jo-ann-botts": {
+   "1": {
+    "c": [
+     "patt"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-nathan-giangardella": {
+   "1": {
+    "c": [
+     "brady"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-abigail-murray": {
+   "1": {
+    "c": [
+     "aaliyah"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-jeannie-rieger": {
+   "1": {
+    "c": [
+     "thienan"
+    ],
+    "tribe": "",
+    "src": "form"
+   }
+  },
+  "f-brooke-radcliffe": {
+   "1": {
+    "c": [
+     "jelly"
     ],
     "tribe": "",
     "src": "form"
