@@ -432,8 +432,17 @@
     "aaliyah"
    ],
    "immunity": "",
-   "done": false,
+   "done": true,
    "formUrl": "https://forms.gle/AYF6hUc9QwYRF4C67"
+  },
+  {
+   "n": 2,
+   "date": "2026-09-30",
+   "picks": 1,
+   "eliminated": [],
+   "immunity": "",
+   "done": false,
+   "formUrl": "https://forms.gle/YvHdXmh8LxKb4eYL6"
   }
  ],
  "picks": {
