@@ -439,7 +439,9 @@
    "n": 2,
    "date": "2026-09-30",
    "picks": 1,
-   "eliminated": [],
+   "eliminated": [
+    "ana"
+   ],
    "immunity": "Toka",
    "done": false,
    "formUrl": "https://forms.gle/YvHdXmh8LxKb4eYL6"
