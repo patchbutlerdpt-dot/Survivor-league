@@ -443,8 +443,17 @@
     "ana"
    ],
    "immunity": "Toka",
-   "done": false,
+   "done": true,
    "formUrl": "https://forms.gle/YvHdXmh8LxKb4eYL6"
+  },
+  {
+   "n": 3,
+   "date": "2026-10-07",
+   "picks": 1,
+   "eliminated": [],
+   "immunity": "",
+   "done": false,
+   "formUrl": ""
   }
  ],
  "picks": {
