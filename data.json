@@ -455,8 +455,17 @@
     "patt"
    ],
    "immunity": "",
-   "done": false,
+   "done": true,
    "formUrl": "https://forms.gle/gxYDgVaUCCiiukod8"
+  },
+  {
+   "n": 4,
+   "date": "2026-10-14",
+   "picks": 1,
+   "eliminated": [],
+   "immunity": "",
+   "done": false,
+   "formUrl": ""
   }
  ],
  "picks": {
