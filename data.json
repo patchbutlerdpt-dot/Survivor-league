@@ -450,7 +450,10 @@
    "n": 3,
    "date": "2026-10-07",
    "picks": 1,
-   "eliminated": [],
+   "eliminated": [
+    "rob",
+    "patt"
+   ],
    "immunity": "",
    "done": false,
    "formUrl": "https://forms.gle/gxYDgVaUCCiiukod8"
