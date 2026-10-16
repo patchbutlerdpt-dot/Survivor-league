@@ -462,7 +462,9 @@
    "n": 4,
    "date": "2026-10-14",
    "picks": 1,
-   "eliminated": [],
+   "eliminated": [
+    "jenna"
+   ],
    "immunity": "",
    "done": false,
    "formUrl": "https://forms.gle/on9rcNY7emyzknVF9"
@@ -541,6 +543,13 @@
    "3": {
     "c": [
      "kilby"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "4": {
+    "c": [
+     "thienan"
     ],
     "tribe": "",
     "src": "form"
@@ -714,6 +723,13 @@
    "3": {
     "c": [
      "thienan"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "4": {
+    "c": [
+     "lewis"
     ],
     "tribe": "",
     "src": "form"
@@ -937,6 +953,13 @@
    "3": {
     "c": [
      "jenna"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "4": {
+    "c": [
+     "alexis"
     ],
     "tribe": "",
     "src": "form"
@@ -1244,6 +1267,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "4": {
+    "c": [
+     "thienan"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-kate-defoe": {
@@ -1293,6 +1323,13 @@
     "c": [
      "devin"
     ]
+   },
+   "4": {
+    "c": [
+     "eric"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-brooke-bartolovich": {
@@ -1394,6 +1431,13 @@
    "3": {
     "c": [
      "brady"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "4": {
+    "c": [
+     "alexis"
     ],
     "tribe": "",
     "src": "form"
@@ -1532,6 +1576,13 @@
    "3": {
     "c": [
      "linnea"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "4": {
+    "c": [
+     "thienan"
     ],
     "tribe": "",
     "src": "form"
@@ -1763,6 +1814,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "4": {
+    "c": [
+     "eric"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-anna-bradley-schoenfeld": {
@@ -1804,6 +1862,13 @@
    "3": {
     "c": [
      "brady"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "4": {
+    "c": [
+     "mike"
     ],
     "tribe": "",
     "src": "form"
@@ -1888,6 +1953,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "4": {
+    "c": [
+     "brady"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-sara-hanson": {
@@ -1907,6 +1979,13 @@
    "3": {
     "c": [
      "kilby"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "4": {
+    "c": [
+     "cristian"
     ],
     "tribe": "",
     "src": "form"
