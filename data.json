@@ -466,8 +466,17 @@
     "jenna"
    ],
    "immunity": "",
-   "done": false,
+   "done": true,
    "formUrl": "https://forms.gle/on9rcNY7emyzknVF9"
+  },
+  {
+   "n": 5,
+   "date": "2026-10-21",
+   "picks": 1,
+   "eliminated": [],
+   "immunity": "",
+   "done": false,
+   "formUrl": ""
   }
  ],
  "picks": {
