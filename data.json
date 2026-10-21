@@ -5,7 +5,7 @@
  "venmo": "@PatrickLButler",
  "tribes": [
   {
-   "name": "Toa",
+   "name": "Savu",
    "color": "#6A4C9C"
   },
   {
@@ -28,13 +28,13 @@
    "id": "alexis",
    "name": "Alexis Levine",
    "short": "Alexis",
-   "tribe": "Toa"
+   "tribe": "Savu"
   },
   {
    "id": "ana",
    "name": "Ana Sani",
    "short": "Ana",
-   "tribe": "Toa"
+   "tribe": "Savu"
   },
   {
    "id": "brady",
@@ -58,7 +58,7 @@
    "id": "devin",
    "name": "Devin Way",
    "short": "Devin",
-   "tribe": "Toa"
+   "tribe": "Savu"
   },
   {
    "id": "eric",
@@ -70,7 +70,7 @@
    "id": "jelly",
    "name": "Angelica \"Jelly\" Loblack",
    "short": "Jelly",
-   "tribe": "Toa"
+   "tribe": "Savu"
   },
   {
    "id": "jenna",
@@ -118,7 +118,7 @@
    "id": "ori",
    "name": "Ori Jean-Charles",
    "short": "Ori",
-   "tribe": "Toa"
+   "tribe": "Savu"
   },
   {
    "id": "patt",
@@ -130,7 +130,7 @@
    "id": "rob",
    "name": "Rob Antonson",
    "short": "Rob",
-   "tribe": "Toa"
+   "tribe": "Savu"
   },
   {
    "id": "sharonda",
