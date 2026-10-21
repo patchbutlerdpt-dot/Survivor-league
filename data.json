@@ -5,12 +5,16 @@
  "venmo": "@PatrickLButler",
  "tribes": [
   {
-   "name": "Savu",
+   "name": "Toa",
    "color": "#6A4C9C"
   },
   {
    "name": "Toka",
    "color": "#C49A0E"
+  },
+  {
+   "name": "Dina",
+   "color": "#2C7A8C"
   }
  ],
  "castaways": [
@@ -24,13 +28,13 @@
    "id": "alexis",
    "name": "Alexis Levine",
    "short": "Alexis",
-   "tribe": "Savu"
+   "tribe": "Toa"
   },
   {
    "id": "ana",
    "name": "Ana Sani",
    "short": "Ana",
-   "tribe": "Savu"
+   "tribe": "Toa"
   },
   {
    "id": "brady",
@@ -42,31 +46,31 @@
    "id": "carter",
    "name": "Carter Krull",
    "short": "Carter",
-   "tribe": "Savu"
+   "tribe": "Toka"
   },
   {
    "id": "cristian",
    "name": "Cristian Chavez",
    "short": "Cristian",
-   "tribe": "Savu"
+   "tribe": "Dina"
   },
   {
    "id": "devin",
    "name": "Devin Way",
    "short": "Devin",
-   "tribe": "Toka"
+   "tribe": "Toa"
   },
   {
    "id": "eric",
    "name": "Eric Macksoud",
    "short": "Eric",
-   "tribe": "Savu"
+   "tribe": "Dina"
   },
   {
    "id": "jelly",
    "name": "Angelica \"Jelly\" Loblack",
    "short": "Jelly",
-   "tribe": "Toka"
+   "tribe": "Toa"
   },
   {
    "id": "jenna",
@@ -78,25 +82,25 @@
    "id": "kilby",
    "name": "Danny \"Kilby\" Kilby",
    "short": "Kilby",
-   "tribe": "Toka"
+   "tribe": "Dina"
   },
   {
    "id": "kristin",
    "name": "Kristin Flickinger",
    "short": "Kristin",
-   "tribe": "Savu"
+   "tribe": "Toka"
   },
   {
    "id": "lewis",
    "name": "Lewis Kelly",
    "short": "Lewis",
-   "tribe": "Toka"
+   "tribe": "Dina"
   },
   {
    "id": "linnea",
    "name": "Linnea Capobianco",
    "short": "Linnea",
-   "tribe": "Savu"
+   "tribe": "Dina"
   },
   {
    "id": "maggie",
@@ -114,7 +118,7 @@
    "id": "ori",
    "name": "Ori Jean-Charles",
    "short": "Ori",
-   "tribe": "Savu"
+   "tribe": "Toa"
   },
   {
    "id": "patt",
@@ -126,13 +130,13 @@
    "id": "rob",
    "name": "Rob Antonson",
    "short": "Rob",
-   "tribe": "Savu"
+   "tribe": "Toa"
   },
   {
    "id": "sharonda",
    "name": "Sharonda Cox",
    "short": "Sharonda",
-   "tribe": "Savu"
+   "tribe": "Dina"
   },
   {
    "id": "thienan",
