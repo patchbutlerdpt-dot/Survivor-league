@@ -477,7 +477,10 @@
    "n": 5,
    "date": "2026-10-21",
    "picks": 1,
-   "eliminated": [],
+   "eliminated": [
+    "alexis",
+    "linnea"
+   ],
    "immunity": "",
    "done": false,
    "formUrl": "https://forms.gle/cK7vHjaF9Ym7EFfn7"
@@ -511,6 +514,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "eric"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-hannah-kallach-butler": {
@@ -535,6 +545,13 @@
    "4": {
     "c": [
      "alexis"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "kilby"
     ],
     "tribe": "",
     "src": "form"
@@ -563,6 +580,13 @@
    "4": {
     "c": [
      "thienan"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "alexis"
     ],
     "tribe": "",
     "src": "form"
@@ -595,6 +619,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "kilby"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-gabby-brandon-poundstone": {
@@ -622,6 +653,13 @@
     "c": [
      "eric"
     ]
+   },
+   "5": {
+    "c": [
+     "kilby"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-hannah-bushman": {
@@ -663,6 +701,13 @@
    "4": {
     "c": [
      "kilby"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "eric"
     ],
     "tribe": "",
     "src": "form"
@@ -746,6 +791,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "jelly"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-tyler-denhof": {
@@ -772,6 +824,13 @@
    "4": {
     "c": [
      "alexis"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "devin"
     ],
     "tribe": "",
     "src": "form"
@@ -804,6 +863,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "kilby"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-doge": {
@@ -833,6 +899,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "maggie"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-grace-brown": {
@@ -857,6 +930,13 @@
    "4": {
     "c": [
      "sharonda"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "thienan"
     ],
     "tribe": "",
     "src": "form"
@@ -889,6 +969,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "kristin"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-lexi-quinlisk": {
@@ -915,6 +1002,13 @@
    "4": {
     "c": [
      "cristian"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "devin"
     ],
     "tribe": "",
     "src": "form"
@@ -947,6 +1041,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "maggie"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-nick-stover": {
@@ -976,6 +1077,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "maggie"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-amanda-kallach": {
@@ -1002,6 +1110,13 @@
    "4": {
     "c": [
      "maggie"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "mike"
     ],
     "tribe": "",
     "src": "form"
@@ -1047,6 +1162,13 @@
    "4": {
     "c": [
      "sharonda"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "linnea"
     ],
     "tribe": "",
     "src": "form"
@@ -1108,6 +1230,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "carter"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-abigail-murray": {
@@ -1149,6 +1278,13 @@
    "4": {
     "c": [
      "sharonda"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "carter"
     ],
     "tribe": "",
     "src": "form"
@@ -1201,6 +1337,13 @@
    "4": {
     "c": [
      "brady"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "mike"
     ],
     "tribe": "",
     "src": "form"
@@ -1258,6 +1401,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "cristian"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-lauren-donnelly": {
@@ -1284,6 +1434,13 @@
    "4": {
     "c": [
      "thienan"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "carter"
     ],
     "tribe": "",
     "src": "form"
@@ -1316,6 +1473,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "maggie"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-abby-zona-patel": {
@@ -1340,6 +1504,13 @@
    "4": {
     "c": [
      "eric"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "kilby"
     ],
     "tribe": "",
     "src": "form"
@@ -1370,6 +1541,13 @@
    "4": {
     "c": [
      "brady"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "kilby"
     ],
     "tribe": "",
     "src": "form"
@@ -1424,6 +1602,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "mike"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-courtney-lloyd": {
@@ -1451,6 +1636,13 @@
    "4": {
     "c": [
      "alexis"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "carter"
     ],
     "tribe": "",
     "src": "form"
@@ -1483,6 +1675,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "kilby"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-alex-ventura": {
@@ -1509,6 +1708,13 @@
    "4": {
     "c": [
      "cristian"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "maggie"
     ],
     "tribe": "",
     "src": "form"
@@ -1541,6 +1747,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "linnea"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-john-brown": {
@@ -1569,6 +1782,13 @@
      "jelly"
     ],
     "tribe": ""
+   },
+   "5": {
+    "c": [
+     "thienan"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-nate-haller": {
@@ -1595,6 +1815,13 @@
    "4": {
     "c": [
      "thienan"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "eric"
     ],
     "tribe": "",
     "src": "form"
@@ -1627,6 +1854,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "maggie"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-emily-burson": {
@@ -1656,6 +1890,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "sharonda"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-zach-curtis": {
@@ -1682,6 +1923,13 @@
    "4": {
     "c": [
      "kristin"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "sharonda"
     ],
     "tribe": "",
     "src": "form"
@@ -1773,6 +2021,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "devin"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-sam-palumbo": {
@@ -1803,6 +2058,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "kilby"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-dylan-lettie": {
@@ -1830,6 +2092,13 @@
    "4": {
     "c": [
      "eric"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "ori"
     ],
     "tribe": "",
     "src": "form"
@@ -1884,6 +2153,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "kilby"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-ethan-quinlisk": {
@@ -1913,6 +2189,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "linnea"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-jacqueline-harris": {
@@ -1939,6 +2222,13 @@
    "4": {
     "c": [
      "brady"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "carter"
     ],
     "tribe": "",
     "src": "form"
@@ -1972,6 +2262,13 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "5": {
+    "c": [
+     "thienan"
+    ],
+    "tribe": "",
+    "src": "form"
    }
   },
   "f-sara-hanson": {
@@ -1998,6 +2295,13 @@
    "4": {
     "c": [
      "cristian"
+    ],
+    "tribe": "",
+    "src": "form"
+   },
+   "5": {
+    "c": [
+     "ori"
     ],
     "tribe": "",
     "src": "form"
