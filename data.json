@@ -482,7 +482,7 @@
     "linnea"
    ],
    "immunity": "",
-   "done": false,
+   "done": true,
    "formUrl": "https://forms.gle/cK7vHjaF9Ym7EFfn7"
   },
   {
@@ -493,6 +493,15 @@
    "immunity": "",
    "done": false,
    "formUrl": "https://forms.gle/HpzbPJ7FnngreBfX8"
+  },
+  {
+   "n": 6,
+   "date": "2026-10-28",
+   "picks": 1,
+   "eliminated": [],
+   "immunity": "",
+   "done": false,
+   "formUrl": ""
   }
  ],
  "picks": {
@@ -1500,6 +1509,11 @@
    "5": {
     "c": [
      "lewis"
+    ]
+   },
+   "6": {
+    "c": [
+     "jelly"
     ]
    }
   },
