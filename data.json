@@ -489,9 +489,7 @@
    "n": 6,
    "date": "2026-10-28",
    "picks": 1,
-   "eliminated": [
-    "ori"
-   ],
+   "eliminated": [],
    "immunity": "",
    "done": false,
    "formUrl": "https://forms.gle/HpzbPJ7FnngreBfX8"
