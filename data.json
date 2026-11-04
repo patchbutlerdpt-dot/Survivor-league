@@ -489,14 +489,25 @@
    "n": 6,
    "date": "2026-10-28",
    "picks": 1,
+   "eliminated": [
+    "ori"
+   ],
+   "immunity": "",
+   "done": true,
+   "formUrl": "https://forms.gle/HpzbPJ7FnngreBfX8"
+  },
+  {
+   "n": 6,
+   "date": "2026-10-28",
+   "picks": 1,
    "eliminated": [],
    "immunity": "",
    "done": false,
    "formUrl": "https://forms.gle/HpzbPJ7FnngreBfX8"
   },
   {
-   "n": 6,
-   "date": "2026-10-28",
+   "n": 7,
+   "date": "2026-11-04",
    "picks": 1,
    "eliminated": [],
    "immunity": "",
