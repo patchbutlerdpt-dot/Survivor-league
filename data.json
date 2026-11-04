@@ -502,8 +502,17 @@
    "picks": 1,
    "eliminated": [],
    "immunity": "",
-   "done": false,
+   "done": true,
    "formUrl": "https://forms.gle/HpzbPJ7FnngreBfX8"
+  },
+  {
+   "n": 7,
+   "date": "2026-11-04",
+   "picks": 1,
+   "eliminated": [],
+   "immunity": "",
+   "done": false,
+   "formUrl": ""
   },
   {
    "n": 7,
