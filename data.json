@@ -501,42 +501,41 @@
    "date": "2026-11-04",
    "picks": 1,
    "eliminated": [
-    "ori",
     "brady"
    ],
    "immunity": "",
    "done": true,
-   "formUrl": "https://forms.gle/GoRLcwHyrfKYDjuG8"
+   "formUrl": ""
   },
   {
-   "n": 7,
+   "n": 8,
+   "date": "2026-11-11",
+   "picks": 1,
+   "eliminated": [],
+   "immunity": "",
+   "done": false,
+   "formUrl": ""
+  },
+  {
+   "n": 9,
    "date": "2026-11-04",
    "picks": 1,
    "eliminated": [],
    "immunity": "",
    "done": false,
-   "formUrl": "https://forms.gle/GoRLcwHyrfKYDjuG8"
+   "formUrl": ""
   },
   {
-   "n": 7,
+   "n": 10,
    "date": "2026-11-04",
    "picks": 1,
    "eliminated": [],
    "immunity": "",
    "done": false,
-   "formUrl": "https://forms.gle/GoRLcwHyrfKYDjuG8"
+   "formUrl": ""
   },
   {
-   "n": 7,
-   "date": "2026-11-04",
-   "picks": 1,
-   "eliminated": [],
-   "immunity": "",
-   "done": false,
-   "formUrl": "https://forms.gle/GoRLcwHyrfKYDjuG8"
-  },
-  {
-   "n": 7,
+   "n": 11,
    "date": "2026-11-04",
    "picks": 1,
    "eliminated": [],
