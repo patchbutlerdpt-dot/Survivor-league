@@ -505,7 +505,7 @@
     "brady"
    ],
    "immunity": "",
-   "done": false,
+   "done": true,
    "formUrl": "https://forms.gle/GoRLcwHyrfKYDjuG8"
   },
   {
@@ -579,6 +579,15 @@
    "immunity": "",
    "done": false,
    "formUrl": "https://forms.gle/GoRLcwHyrfKYDjuG8"
+  },
+  {
+   "n": 8,
+   "date": "2026-11-11",
+   "picks": 1,
+   "eliminated": [],
+   "immunity": "",
+   "done": false,
+   "formUrl": ""
   }
  ],
  "picks": {
