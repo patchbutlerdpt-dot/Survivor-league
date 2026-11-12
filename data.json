@@ -511,9 +511,12 @@
    "n": 8,
    "date": "2026-11-11",
    "picks": 1,
-   "eliminated": [],
+   "eliminated": [
+    "kilby",
+    "kristin"
+   ],
    "immunity": "",
-   "done": false,
+   "done": true,
    "formUrl": "https://forms.gle/N2FzHjtxNTbs6pwZA"
   },
   {
@@ -587,6 +590,15 @@
    "immunity": "",
    "done": false,
    "formUrl": "https://forms.gle/RNsR8p9DNv53t3Cr6"
+  },
+  {
+   "n": 9,
+   "date": "2026-11-18",
+   "picks": 1,
+   "eliminated": [],
+   "immunity": "",
+   "done": false,
+   "formUrl": ""
   }
  ],
  "picks": {
