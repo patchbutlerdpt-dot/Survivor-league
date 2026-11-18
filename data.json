@@ -598,7 +598,7 @@
    "eliminated": [],
    "immunity": "",
    "done": false,
-   "formUrl": ""
+   "formUrl": "https://forms.gle/4v3oU1EjdXn9pqzq5"
   }
  ],
  "picks": {
@@ -1151,6 +1151,11 @@
     ],
     "tribe": "",
     "src": "form"
+   },
+   "9": {
+    "c": [
+     "maggie"
+    ]
    }
   },
   "f-doge": {
