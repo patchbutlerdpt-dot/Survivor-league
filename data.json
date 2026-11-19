@@ -527,7 +527,7 @@
     "lewis"
    ],
    "immunity": "",
-   "done": false,
+   "done": true,
    "formUrl": "https://forms.gle/Fxw9RRYkXoXJCFpM6"
   },
   {
@@ -601,6 +601,15 @@
    "immunity": "",
    "done": false,
    "formUrl": "https://forms.gle/4v3oU1EjdXn9pqzq5"
+  },
+  {
+   "n": 10,
+   "date": "2026-11-25",
+   "picks": 1,
+   "eliminated": [],
+   "immunity": "",
+   "done": false,
+   "formUrl": ""
   }
  ],
  "picks": {
