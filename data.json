@@ -523,7 +523,9 @@
    "n": 9,
    "date": "2026-11-18",
    "picks": 1,
-   "eliminated": [],
+   "eliminated": [
+    "lewis"
+   ],
    "immunity": "",
    "done": false,
    "formUrl": "https://forms.gle/Fxw9RRYkXoXJCFpM6"
