@@ -892,6 +892,12 @@
      "jelly"
     ],
     "tribe": ""
+   },
+   "10": {
+    "c": [
+     "sharonda"
+    ],
+    "tribe": ""
    }
   },
   "f-hannah-bushman": {
@@ -968,6 +974,12 @@
    "9": {
     "c": [
      "mike"
+    ],
+    "tribe": ""
+   },
+   "10": {
+    "c": [
+     "cristian"
     ],
     "tribe": ""
    }
@@ -1084,6 +1096,12 @@
      "sharonda"
     ],
     "tribe": ""
+   },
+   "10": {
+    "c": [
+     "eric"
+    ],
+    "tribe": ""
    }
   },
   "f-tyler-denhof": {
@@ -1145,6 +1163,12 @@
    "9": {
     "c": [
      "thienan"
+    ],
+    "tribe": ""
+   },
+   "10": {
+    "c": [
+     "eric"
     ],
     "tribe": ""
    }
@@ -1209,6 +1233,12 @@
     "c": [
      "maggie"
     ]
+   },
+   "10": {
+    "c": [
+     "carter"
+    ],
+    "tribe": ""
    }
   },
   "f-doge": {
@@ -1324,6 +1354,12 @@
     "c": [
      "devin"
     ]
+   },
+   "10": {
+    "c": [
+     "mike"
+    ],
+    "tribe": ""
    }
   },
   "f-karen-moses": {
@@ -1385,6 +1421,12 @@
    "9": {
     "c": [
      "jelly"
+    ],
+    "tribe": ""
+   },
+   "10": {
+    "c": [
+     "carter"
     ],
     "tribe": ""
    }
@@ -1450,6 +1492,12 @@
      "sharonda"
     ],
     "tribe": ""
+   },
+   "10": {
+    "c": [
+     "carter"
+    ],
+    "tribe": ""
    }
   },
   "f-richelle-hurley": {
@@ -1511,6 +1559,12 @@
    "9": {
     "c": [
      "cristian"
+    ],
+    "tribe": ""
+   },
+   "10": {
+    "c": [
+     "thienan"
     ],
     "tribe": ""
    }
@@ -1610,6 +1664,12 @@
    "9": {
     "c": [
      "cristian"
+    ],
+    "tribe": ""
+   },
+   "10": {
+    "c": [
+     "sharonda"
     ],
     "tribe": ""
    }
@@ -1756,6 +1816,12 @@
      "mike"
     ],
     "tribe": ""
+   },
+   "10": {
+    "c": [
+     "jelly"
+    ],
+    "tribe": ""
    }
   },
   "f-abigail-murray": {
@@ -1832,6 +1898,12 @@
    "9": {
     "c": [
      "maggie"
+    ],
+    "tribe": ""
+   },
+   "10": {
+    "c": [
+     "eric"
     ],
     "tribe": ""
    }
@@ -1975,6 +2047,12 @@
      "eric"
     ],
     "tribe": ""
+   },
+   "10": {
+    "c": [
+     "carter"
+    ],
+    "tribe": ""
    }
   },
   "f-grace-curtis": {
@@ -2036,6 +2114,12 @@
    "9": {
     "c": [
      "mike"
+    ],
+    "tribe": ""
+   },
+   "10": {
+    "c": [
+     "devin"
     ],
     "tribe": ""
    }
@@ -2142,6 +2226,12 @@
    "9": {
     "c": [
      "cristian"
+    ],
+    "tribe": ""
+   },
+   "10": {
+    "c": [
+     "mike"
     ],
     "tribe": ""
    }
@@ -2267,6 +2357,12 @@
    "9": {
     "c": [
      "devin"
+    ],
+    "tribe": ""
+   },
+   "10": {
+    "c": [
+     "carter"
     ],
     "tribe": ""
    }
@@ -2415,6 +2511,12 @@
      "thienan"
     ],
     "tribe": ""
+   },
+   "10": {
+    "c": [
+     "mike"
+    ],
+    "tribe": ""
    }
   },
   "f-kelli-miller": {
@@ -2533,6 +2635,12 @@
    "9": {
     "c": [
      "jelly"
+    ],
+    "tribe": ""
+   },
+   "10": {
+    "c": [
+     "mike"
     ],
     "tribe": ""
    }
@@ -2747,6 +2855,12 @@
      "sharonda"
     ],
     "tribe": ""
+   },
+   "10": {
+    "c": [
+     "mike"
+    ],
+    "tribe": ""
    }
   },
   "f-emily-burson": {
@@ -2810,6 +2924,12 @@
      "maggie"
     ],
     "tribe": ""
+   },
+   "10": {
+    "c": [
+     "thienan"
+    ],
+    "tribe": ""
    }
   },
   "f-zach-curtis": {
@@ -2871,6 +2991,12 @@
    "9": {
     "c": [
      "maggie"
+    ],
+    "tribe": ""
+   },
+   "10": {
+    "c": [
+     "mike"
     ],
     "tribe": ""
    }
@@ -2994,6 +3120,12 @@
     "c": [
      "cristian"
     ]
+   },
+   "10": {
+    "c": [
+     "jelly"
+    ],
+    "tribe": ""
    }
   },
   "f-sam-palumbo": {
@@ -3187,6 +3319,12 @@
     "c": [
      "carter"
     ]
+   },
+   "10": {
+    "c": [
+     "maggie"
+    ],
+    "tribe": ""
    }
   },
   "f-ethan-quinlisk": {
