@@ -539,7 +539,7 @@
     "maggie"
    ],
    "immunity": "",
-   "done": false,
+   "done": true,
    "formUrl": "https://docs.google.com/forms/d/1M2lACG8WJM17LkRBX-PK4J99Q1M9r9HPSoDp7-vzRq8/edit"
   },
   {
@@ -613,6 +613,15 @@
    "immunity": "",
    "done": false,
    "formUrl": "https://forms.gle/cSm61ZnT1DHussKA7"
+  },
+  {
+   "n": 11,
+   "date": "2026-12-02",
+   "picks": 1,
+   "eliminated": [],
+   "immunity": "",
+   "done": false,
+   "formUrl": ""
   }
  ],
  "picks": {
