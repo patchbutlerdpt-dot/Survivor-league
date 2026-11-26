@@ -534,7 +534,10 @@
    "n": 10,
    "date": "2026-11-25",
    "picks": 1,
-   "eliminated": [],
+   "eliminated": [
+    "carter",
+    "maggie"
+   ],
    "immunity": "",
    "done": false,
    "formUrl": "https://docs.google.com/forms/d/1M2lACG8WJM17LkRBX-PK4J99Q1M9r9HPSoDp7-vzRq8/edit"
